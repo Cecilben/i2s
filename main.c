@@ -44,7 +44,7 @@
  *
  * @brief I2S Example Application main file.
  *
- * This file contains the source code for a sample application using I2S.
+ * The Example file has been edited for internal usage of Surag
  */
 
 #include <stdio.h>
